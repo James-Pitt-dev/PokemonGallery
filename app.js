@@ -4,7 +4,7 @@
 
 
 const createGallery = function(){
-    for (let i = 1; i <= 500; i++) {
+    for (let i = 1; i <= 151; i++) {
         const pokeDiv = document.createElement('div');
         const pokeCard = document.createElement('img');
         const pokeLabel = document.createElement('span');
